@@ -3,11 +3,6 @@ import 'package:flutter_youtube_clone_app/common/colors.dart';
 import 'package:flutter_youtube_clone_app/json/home_video.dart';
 import 'package:video_player/video_player.dart';
 
-/*
-Title:VideoDetailScreen
-Purpose:VideoDetailScreen
-Created By:Kalpesh Khandla
-*/
 
 class VideoDetailScreen extends StatefulWidget {
   String thumbnail;

@@ -3,12 +3,6 @@ import 'package:flutter_svg/svg.dart';
 import 'package:flutter_youtube_clone_app/common/colors.dart';
 import 'package:flutter_youtube_clone_app/json/home_video.dart';
 import 'video_detail_screen.dart';
-
-/*
-Title:HomePageScreen
-Purpose:HomePageScreen
-Created By:Kalpesh Khandla
-*/  
 	
 
 class HomePageScreen extends StatefulWidget {
